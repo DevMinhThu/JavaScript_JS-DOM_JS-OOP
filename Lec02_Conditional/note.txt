@@ -1,0 +1,8 @@
+Biểu thức điều kiện - A,B : true | false
+- A&&B -> trả về "true" khi cả 2 đều "true", còn lại "false"
+- A||B -> trả về "false" khi cả 2 đều "false", còn lại "true"
+- !A -> phủ định của A
+- A == B (so sánh không cần kiểu dữ liệu)
+    - ví dụ "0" == 0 -> true
+- A === B (so sánh cả kiểu dữ liệu và giá trị)
+    - ví dụ "0" === 0 -> false (KHUYÊN DÙNG)
