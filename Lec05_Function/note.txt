@@ -1,0 +1,10 @@
+các loại hàm
+- hàm có tham số truyền vào
+- hàm không có tham số truyền vào
+- hàm có giá trị trả về (có return)
+- hàm không có giá trị trả về
+
+* Luôn đặt câu hỏi: Trong hàm cần gì để tính toán từ bên ngoài hay không ? 
+    -> truyền từ ngoài vào để tính 
+    -> các tham số
+* return: Tự hỏi: Hàm tính xong có trả về cái gì hay không, hay xuất ra luôn, in ra luôn.
