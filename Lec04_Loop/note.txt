@@ -1,0 +1,5 @@
+for - vòng lặp for theo index
+for/in - lặp trên từng thuộc tính của đối tượng
+for/of - lặp thông qua các giá trị của một đối tượng có tính lặp (mảng, chuỗi, map,...)
+while - lặp thông qua điều kiện đúng
+do/while - tương tự while nhưng thực hiện lệnh trước 1 lần.
