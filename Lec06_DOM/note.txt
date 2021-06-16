@@ -1,0 +1,14 @@
+DOM - Document Object Model
+==> DOM để giúp ta lấy được các thẻ (OBJECT) để tương tác dữ liệu.
+
+// ==== Làm sao để lấy ====
+1. Lấy qua ID của thẻ
+2. Lấy qua TÊN THẺ (Tag name)
+3. Lấy qua CLASS CSS của thẻ
+4. Sử dụng phương thức "querySelector" & "querySelectorAll" 
+
+// === Cách 1: Lấy qua id của thẻ ===
+Cú pháp: document.getElementById(elementID)
+VD:
+var test = document.getElementById(<id thẻ>)
+Lưu ý: sau khi trả về cho biến test, biến test sẽ làm một OBJECT Element.
